@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="SpringFormHandler.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringFormHandler_war</output-path>
+    <root id="root">
+      <element id="archive" name="SpringFormHandler.war" />
+    </root>
+  </artifact>
+</component>
